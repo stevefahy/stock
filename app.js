@@ -5,6 +5,6 @@ app.get('/', function (req, res) {
   res.send('Stock!');
 });
 
-app.listen(30001, function () {
+app.listen(3001, function () {
   console.log('Example app listening on port 3001!');
 });
